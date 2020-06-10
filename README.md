@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>Bienvenido</title>
     </head>
 <body>
   <h1>Hola profe le saluda </h1>
